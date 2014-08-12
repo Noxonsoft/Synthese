@@ -13,3 +13,6 @@ Features
 Screenshot
 ----------
 ![alt tag](http://www.synthese.noxonsoft.com/synthese_app.PNG)
+
+Official website: [SYNTHESE](http://www.synthese.noxonsoft.com/)
+[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=Noxonsoft&url=https://github.com/Noxonsoft/Synthese&title=Synthese&language=english&tags=github&category=software)
