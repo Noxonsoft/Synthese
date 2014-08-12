@@ -5,10 +5,10 @@ Synthese is an open source application for Windows written in vb.net that gives 
 
 Features
 --------
--Trident Engine (Gecko is coming!)
--Custom Icon
--Window Style
--Choose shortcut location (win7 only)
+*Trident Engine (Gecko is coming!)
+*Custom Icon
+*Window Style
+*Choose shortcut location (win7 only)
 
 Screenshot
 ----------
