@@ -1,0 +1,14 @@
+c:\users\jacob_000\documents\visual studio 2013\Projects\Synthese\Synthese\bin\Debug\Synthese.exe.config
+c:\users\jacob_000\documents\visual studio 2013\Projects\Synthese\Synthese\bin\Debug\Synthese.exe
+c:\users\jacob_000\documents\visual studio 2013\Projects\Synthese\Synthese\bin\Debug\Synthese.pdb
+c:\users\jacob_000\documents\visual studio 2013\Projects\Synthese\Synthese\bin\Debug\Synthese.xml
+c:\users\jacob_000\documents\visual studio 2013\Projects\Synthese\Synthese\obj\Debug\Synthese.frmMain.resources
+c:\users\jacob_000\documents\visual studio 2013\Projects\Synthese\Synthese\obj\Debug\Synthese.Resources.resources
+c:\users\jacob_000\documents\visual studio 2013\Projects\Synthese\Synthese\obj\Debug\Synthese.vbproj.GenerateResource.Cache
+c:\users\jacob_000\documents\visual studio 2013\Projects\Synthese\Synthese\obj\Debug\Synthese.exe
+c:\users\jacob_000\documents\visual studio 2013\Projects\Synthese\Synthese\obj\Debug\Synthese.xml
+c:\users\jacob_000\documents\visual studio 2013\Projects\Synthese\Synthese\obj\Debug\Synthese.pdb
+C:\Users\jacob_000\Documents\Visual Studio 2013\Projects\Synthese\Synthese\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\jacob_000\Documents\Visual Studio 2013\Projects\Synthese\Synthese\obj\Debug\Synthese.vbproj.ResolveComReference.cache
+C:\Users\jacob_000\documents\visual studio 2013\Projects\Synthese\Synthese\obj\Debug\Synthese.About.resources
+C:\Users\jacob_000\documents\visual studio 2013\Projects\Synthese\Synthese\obj\Debug\Synthese.Help.resources
